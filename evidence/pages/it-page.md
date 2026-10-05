@@ -1,5 +1,5 @@
 ---
-title: it-page
+title: Integration test page
 ---
 
-Marker: studio-muvpxix7
+Marker: github-muvpxix7
