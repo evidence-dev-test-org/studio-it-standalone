@@ -1,5 +1,5 @@
 ---
-title: it-page
+title: Integration test page
 ---
 
-Marker: studio-mv8moz1m
+Marker: github-mv8moz1m
