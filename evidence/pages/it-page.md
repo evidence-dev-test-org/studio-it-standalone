@@ -1,5 +1,5 @@
 ---
-title: it-page
+title: Integration test page
 ---
 
-Marker: studio-mv8s430v
+Marker: github-mv8s430v
